@@ -1,0 +1,28 @@
+_repo: Illustrated-Horse-Breaking_57116
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Brown, J. H. Oswald
+    gutenberg_agent_id: '49206'
+    url: http://www.gutenberg.org/2009/agents/49206
+creator:
+  author:
+    agent_name: Hayes, M. Horace (Matthew Horace)
+    alias: Hayes, Matthew Horace
+    birthdate: 1842
+    deathdate: 1904
+    gutenberg_agent_id: '31909'
+    url: http://www.gutenberg.org/2009/agents/31909
+description: ''
+gutenberg_issued: '2018-05-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57116'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Illustrated Horse Breaking
+url: http://www.gutenberg.org/ebooks/57116
